@@ -1,11 +1,11 @@
-package cubo;
+package Cone;
 
 import java.util.Scanner;
 
 public class Conemain {
 
 	public static void main(String[] args) {
-		Cone cone = new Cone ();
+		Cone cone = new Cone ( );
 		Scanner entrada=new Scanner (System.in);
 	
 		System.out.println("Digite o raio do cone a ser pintado: ");

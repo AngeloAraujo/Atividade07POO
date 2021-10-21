@@ -1,4 +1,4 @@
-package cubo;
+package Cone;
 
 public class Cone {
 private float raio;
@@ -7,6 +7,9 @@ private int tinta;
 public double precodalata1=238.90;
 public double precodalata2=467.98;
 public double precodalata3=758.34;
+
+
+
 
 
 public float getRaio() {
